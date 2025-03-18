@@ -15,7 +15,7 @@ class Boxproblem{
     public static void main(String[] args){
         Box b1 = new Box();
         b1.setDimension(20,15,11);
-        System.out.print("");
+        System.out.println();
         b1.showDimension();
     }
 }

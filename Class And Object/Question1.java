@@ -1,6 +1,6 @@
 class Complex{
     int imaginary;
-    int real;
+    int   real;
     void setcomplex(int i,int r){
         imaginary = i;
         real = r;
